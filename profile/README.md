@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/SL1.png" alt="SORA Logo 1" width="300" />
+  <img src="./assets/SL1.png" alt="SORA-Intelligence Banner" width="100%" />
 </p>
 
 # **SORA-Intelligence**
