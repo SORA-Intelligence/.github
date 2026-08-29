@@ -38,9 +38,9 @@ The system employs a Domain-Driven Isolation strategy across five dedicated repo
 
 | Repository | Focus Area | Primary Technology Stack |
 | :--- | :--- | :--- |
-| **`ALAMOK-Hardware`** | Field hardware, sensors, actuators, power management | ESP32, SX1278 LoRa, C++, PlatformIO |
-| **`ALAMOK-Software`** | Ingestion server, REST/WebSocket API, dashboard, mobile app | FastAPI, NestJS, React, Electron, Expo |
-| **`ALAMOK-ML`** | Computer vision pipeline & edge inference models | TensorFlow Lite, YOLO, Python |
+| **`ALAMOK-Hardware`** | Power management, sensor integration, fluid actuation, telemetry | ESP32-WROOM-32, DS3231 RTC, SX1278 LoRa, 12V LiFePO4 Battery, 20W Solar Panel, Solenoid Valves, Peristaltic Pumps, JSN-SR04T Ultrasonic Sensors, C++, PlatformIO |
+| **`ALAMOK-Software`** | Ingestion server, REST/WebSocket API, dashboard, mobile app | React, React Native (Expo), Electron, TypeScript, TailwindCSS, MapboxGL, FastAPI, NestJS, PostgreSQL, Redis, Socket.io |
+| **`ALAMOK-ML`** | Computer vision pipeline & edge inference models | Raspberry Pi 4B, Pi Camera Module 3, TensorFlow Lite, YOLO-Fastest, OpenCV, Python |
 | **`ALAMOK-Documentation`** | Thesis manuscript, BOM, UAT protocols, field logs | System Architecture Diagrams, Markdown |
 | **`ALAMOK-System-Release`** | System orchestration, submodule sync, release manifests | Git Submodules, SemVer, GitHub Actions |
 
