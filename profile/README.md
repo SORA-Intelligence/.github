@@ -2,9 +2,27 @@
   <img src="./assets/SL1.png" alt="SORA-Intelligence Banner" width="100%" />
 </p>
 
-<p align="center">
-  <img src="./assets/SORA%20Organizational%20Chart%20-%20Github.png" alt="SORA Organizational Chart" width="100%" />
-</p>
+```mermaid
+graph TD
+    Kenzo["**Kenzo Shenel N. Vidal**<br/>Project Manager<br/>DevOps Lead • Solutions Architect"]
+    Andrea["**Andrea R. Andres**<br/>QA Specialist<br/>Research Lead • Documentations Lead"]
+    
+    Sandra["**Sandra C. Agustin**<br/>UI/UX Designer<br/>Technical Illustrator"]
+    Jhonwell["**Jhonwell A. Española**<br/>Software Engineer<br/>Backend Lead"]
+    Timothy["**Timothy James A. Herrera**<br/>Software Engineer<br/>Frontend Lead"]
+    John["**John Michael S. Tuba**<br/>IoT Engineer<br/>Firmware Lead • ML Lead"]
+    Ferkeem["**Ferkeem F. Mamayson**<br/>IoT Engineer<br/>Systems & Integration Lead"]
+    Antonio["**Antonio O. Tenegra Jr.**<br/>IoT Engineer<br/>Product Design Lead"]
+
+    Kenzo --> Andrea
+    Andrea --> Sandra
+    Andrea --> Jhonwell
+    Andrea --> John
+    Andrea --> Ferkeem
+    Jhonwell --> Timothy
+    Ferkeem --> Antonio
+```
+
 
 # **SORA**
 
