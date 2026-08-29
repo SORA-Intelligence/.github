@@ -2,9 +2,15 @@
   <img src="./assets/SL1.png" alt="SORA-Intelligence Banner" width="100%" />
 </p>
 
-# **SORA-Intelligence**
+<p align="center">
+  <img src="./assets/SORA%20Organizational%20Chart%20-%20Github.png" alt="SORA Organizational Chart" width="100%" />
+</p>
+
+# **SORA**
 
 This document serves as the operational guide and engineering pipeline specification for the SORA-Intelligence team. It outlines the repository architecture, project board governance, and development workflows for the ALAMOK ecosystem.
+
+**ALAMOK** (Autonomous Larvicidal AI-Driven Mosquito Ovitrap and Killer) is an off-grid, solar-powered IoT mosquito control system. It integrates edge-AI computer vision (Raspberry Pi co-processor) for automated larvae detection, low-power microcontrollers (ESP32) for fluid management and power orchestration, point-to-point LoRa/BLE telemetry, and dedicated desktop/mobile client applications to monitor and automate larvicide dispatch.
 
 ---
 
@@ -55,7 +61,7 @@ Tracks academic compliance, chapter revisions, field testing data, and adviser f
 | :--- | :--- | :--- |
 | **Vidal, Kenzo Shenel N.** | Project Manager / Lead DevOps & Systems Architect | [@kzc0des](https://github.com/kzc0des) |
 | **Española, Jhonwell A.** | Backend & Core Systems Engineer | [@ryu-zaki](https://github.com/ryu-zaki) |
-| **Herrera, Timothy James** | Frontend Engineer | |
+| **Herrera, Timothy James** | Frontend Engineer | [@JujuDecoder](https://github.com/JujuDecoder) |
 | **Agustin, Sandra C.** | UI/UX Designer & Technical Illustrator | [@sandytrtl](https://github.com/sandytrtl) |
 | **Andres, Andrea C.** | Research & Documentation Lead / Quality Assurance (QA) | [@wippiiee](https://github.com/wippiiee) |
 | **Mamayson, Ferkeem F.** | IoT Systems & Electronics Engineer | [@Ysokii](https://github.com/Ysokii) |
