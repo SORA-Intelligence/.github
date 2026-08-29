@@ -4,15 +4,15 @@
 
 ```mermaid
 graph TD
-    Kenzo["**Kenzo Shenel N. Vidal**<br/>Project Manager<br/>DevOps Lead • Solutions Architect"]
-    Andrea["**Andrea R. Andres**<br/>QA Specialist<br/>Research Lead • Documentations Lead"]
+    Kenzo["<b>Kenzo Shenel N. Vidal</b><br/>Project Manager<br/>DevOps Lead • Solutions Architect"]
+    Andrea["<b>Andrea R. Andres</b><br/>QA Specialist<br/>Research Lead • Documentations Lead"]
     
-    Sandra["**Sandra C. Agustin**<br/>UI/UX Designer<br/>Technical Illustrator"]
-    Jhonwell["**Jhonwell A. Española**<br/>Software Engineer<br/>Backend Lead"]
-    Timothy["**Timothy James A. Herrera**<br/>Software Engineer<br/>Frontend Lead"]
-    John["**John Michael S. Tuba**<br/>IoT Engineer<br/>Firmware Lead • ML Lead"]
-    Ferkeem["**Ferkeem F. Mamayson**<br/>IoT Engineer<br/>Systems & Integration Lead"]
-    Antonio["**Antonio O. Tenegra Jr.**<br/>IoT Engineer<br/>Product Design Lead"]
+    Sandra["<b>Sandra C. Agustin</b><br/>UI/UX Designer<br/>Technical Illustrator"]
+    Jhonwell["<b>Jhonwell A. Española</b><br/>Software Engineer<br/>Backend Lead"]
+    Timothy["<b>Timothy James A. Herrera</b><br/>Software Engineer<br/>Frontend Lead"]
+    John["<b>John Michael S. Tuba</b><br/>IoT Engineer<br/>Firmware Lead • ML Lead"]
+    Ferkeem["<b>Ferkeem F. Mamayson</b><br/>IoT Engineer<br/>Systems & Integration Lead"]
+    Antonio["<b>Antonio O. Tenegra Jr.</b><br/>IoT Engineer<br/>Product Design Lead"]
 
     Kenzo --> Andrea
     Andrea --> Sandra
